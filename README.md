@@ -1,5 +1,6 @@
+[![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/carolanitz/awesome-ios-twitter/blob/master/LICENSE)
 # About
-A curated list of awesome iOS Twitter accounts worth following.
+A curated list of awesome iOS Twitter accounts worth following inspired by [Awesome iOS](https://github.com/vsouza/awesome-ios)
 The list is divided into the categories People, Conferences and Blogs. There is no defined order in each category. If you want to contribute, please read the [guide](https://github.com/carolanitz/awesome-ios-twitter/CONTRIBUTING.md).
 
 Feel free to add other follow worthy Twitter accounts.
@@ -12,16 +13,16 @@ Feel free to add other follow worthy Twitter accounts.
 * [Contributing](#contributing-and-license)
 
 # People
-* [@steipete](https://twitter.com/steipete) Peter Steinberger - creater of PSPDFKit
-* [@krausefx](https://twitter.com/krausefx) Felix Krause - creater of Fastlane
-* [@chriseidhof](https://twitter.com/chriseidhof) Chris Eidhof - creator of Objc.io
-* [@orta](https://twitter.com/orta) Orta Therox - helped build CocoaPods and Danger
-* [@olebegemann](https://twitter.com/olebegeman) Ole Begemann - co-authored Advanced Swift and blogging on oleb.net
-* [@jesse_squires](https://twitter.com/jesse_squires) Jesse Squires - curates the Swift Weekly Brief
+* [@steipete](https://twitter.com/steipete) Peter Steinberger - creater of PSPDFKit.
+* [@krausefx](https://twitter.com/krausefx) Felix Krause - creater of Fastlane.
+* [@chriseidhof](https://twitter.com/chriseidhof) Chris Eidhof - creator of Objc.io.
+* [@orta](https://twitter.com/orta) Orta Therox - helped build CocoaPods and Danger.
+* [@olebegemann](https://twitter.com/olebegeman) Ole Begemann - co-authored Advanced Swift and blogging on oleb.net.
+* [@jesse_squires](https://twitter.com/jesse_squires) Jesse Squires - curates the Swift Weekly Brief.
 
 # Conferences
-* [@nssppain](https://twitter.com/nsspain) The only conference for iOS and Mac in Spain
-* [@swiftsummit](https://twitter.com/swiftsummit) The premier Swift conference for developers
+* [@nssppain](https://twitter.com/nsspain) The only conference for iOS and Mac in Spain.
+* [@swiftsummit](https://twitter.com/swiftsummit) The premier Swift conference for developers.
 
 # Blogs
 * [@objcio](https://twitter.com/objcio)
@@ -30,5 +31,5 @@ Feel free to add other follow worthy Twitter accounts.
 
 
 # Contributing and License
- * [See the guide](https://github.com/carolanitz/awesome-ios-twitter/CONTRIBUTING.md)
- * Distributed under the MIT license. See LICENSE for more information.
+* [See the guide](https://github.com/carolanitz/awesome-ios-twitter/CONTRIBUTING.md)
+* Distributed under the MIT license. See LICENSE for more information.
