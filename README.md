@@ -13,21 +13,23 @@ Feel free to add other follow worthy Twitter accounts.
 * [Contributing](#contributing-and-license)
 
 # People
-* [@steipete](https://twitter.com/steipete) Peter Steinberger - creater of PSPDFKit.
-* [@krausefx](https://twitter.com/krausefx) Felix Krause - creater of Fastlane.
-* [@chriseidhof](https://twitter.com/chriseidhof) Chris Eidhof - creator of Objc.io.
-* [@orta](https://twitter.com/orta) Orta Therox - helped build CocoaPods and Danger.
-* [@olebegemann](https://twitter.com/olebegeman) Ole Begemann - co-authored Advanced Swift and blogging on oleb.net.
-* [@jesse_squires](https://twitter.com/jesse_squires) Jesse Squires - curates the Swift Weekly Brief.
+
+* [@chriseidhof](https://twitter.com/chriseidhof) - creator of Objc.io.
+* [@jesse_squires](https://twitter.com/jesse_squires) - curates the Swift Weekly Brief.
+* [@krausefx](https://twitter.com/krausefx) - creater of Fastlane.
+* [@natashatherobot](https://twitter.com/natashatherobot) - trySwift organizer and writes Swift news newsletter.
+* [@olebegemann](https://twitter.com/olebegeman) - co-authored Advanced Swift and blogging on oleb.net.
+* [@orta](https://twitter.com/orta) - helped build CocoaPods and Danger.
+* [@steipete](https://twitter.com/steipete) - creater of PSPDFKit.
 
 # Conferences
-* [@nssppain](https://twitter.com/nsspain) The only conference for iOS and Mac in Spain.
-* [@swiftsummit](https://twitter.com/swiftsummit) The premier Swift conference for developers.
+* [@nssppain](https://twitter.com/nsspain) - The only conference for iOS and Mac in Spain.
+* [@swiftsummit](https://twitter.com/swiftsummit) - The premier Swift conference for developers.
 
 # Blogs
-* [@objcio](https://twitter.com/objcio)
-* [@iosdevweekly](https://twitter.com/iosdevweekly)
-* [@swiftlybrief](https://twitter.com/swiftlybrief) a community driven newslater about about Swift.org
+* [@iosdevweekly](https://twitter.com/iosdevweekly) - a hand-picked round up of the best iOS development links every week.
+* [@objcio](https://twitter.com/objcio) - publishes books, videos, and articles on advanced techniques for iOS and OS X development.
+* [@swiftlybrief](https://twitter.com/swiftlybrief) - a community driven newslater about about Swift.org
 
 
 # Contributing and License
