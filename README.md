@@ -1,7 +1,7 @@
 [![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/carolanitz/awesome-ios-twitter/blob/master/LICENSE)
 # About
 A curated list of awesome iOS Twitter accounts worth following inspired by [Awesome iOS](https://github.com/vsouza/awesome-ios)
-The list is divided into the categories People, Conferences and Blogs. There is no defined order in each category. If you want to contribute, please read the [guide](https://github.com/carolanitz/Awesome-iOS-Twitter/blob/master/CONTRIBUTING.md).
+The list is divided into the categories People, Conferences and Blogs. There is no defined order in each category. If you want to contribute, please read [CONTRIBUTING.md](https://github.com/carolanitz/Awesome-iOS-Twitter/blob/master/CONTRIBUTING.md).
 
 Feel free to add other follow worthy Twitter accounts.
 
@@ -34,5 +34,5 @@ Feel free to add other follow worthy Twitter accounts.
 
 
 # Contributing and License
-* [See the guide](https://github.com/carolanitz/Awesome-iOS-Twitter/blob/master/CONTRIBUTING.md)
+* [CONTRIBUTING.md](https://github.com/carolanitz/Awesome-iOS-Twitter/blob/master/CONTRIBUTING.md)
 * Distributed under the MIT license. See LICENSE for more information.
