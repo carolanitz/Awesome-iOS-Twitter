@@ -16,11 +16,11 @@ Feel free to add other follow worthy Twitter accounts.
 
 * [@chriseidhof](https://twitter.com/chriseidhof) - creator of Objc.io.
 * [@jesse_squires](https://twitter.com/jesse_squires) - curates the Swift Weekly Brief.
-* [@krausefx](https://twitter.com/krausefx) - creater of Fastlane.
+* [@krausefx](https://twitter.com/krausefx) - creator of fastlane.
 * [@natashatherobot](https://twitter.com/natashatherobot) - trySwift organizer and writes the Swift news newsletter.
 * [@olebegemann](https://twitter.com/olebegeman) - co-authored Advanced Swift and blogging on oleb.net.
 * [@orta](https://twitter.com/orta) - helped build CocoaPods and Danger.
-* [@steipete](https://twitter.com/steipete) - creater of PSPDFKit.
+* [@steipete](https://twitter.com/steipete) - creator of PSPDFKit.
 
 # Conferences
 * [@nssppain](https://twitter.com/nsspain) - The only conference for iOS and Mac in Spain.
@@ -29,7 +29,7 @@ Feel free to add other follow worthy Twitter accounts.
 # Blogs
 * [@iosdevweekly](https://twitter.com/iosdevweekly) - a hand-picked round up of the best iOS development links every week.
 * [@objcio](https://twitter.com/objcio) - publishes books, videos, and articles on advanced techniques for iOS and OS X development.
-* [@swiftlybrief](https://twitter.com/swiftlybrief) - a community driven newslater about about Swift.org
+* [@swiftlybrief](https://twitter.com/swiftlybrief) - a community driven newsletter about about Swift.org
 
 
 # Contributing and License
