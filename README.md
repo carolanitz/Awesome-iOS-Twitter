@@ -25,6 +25,7 @@ Feel free to add other follow worthy Twitter accounts.
 # Conferences
 * [@nssppain](https://twitter.com/nsspain) - The only conference for iOS and Mac in Spain.
 * [@swiftsummit](https://twitter.com/swiftsummit) - The premier Swift conference for developers.
+* [@uikonf](https://twitter.com/uikonf) - Berlin's independent conference for serious iOS developers.
 
 # Blogs
 * [@iosdevweekly](https://twitter.com/iosdevweekly) - a hand-picked round up of the best iOS development links every week.
