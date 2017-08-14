@@ -22,5 +22,6 @@ Typical reasons for deleting twitterhandles:
 
 - Lack recent tweets
 - Not tweeting mostly in English
+- Tweeting about politics: We're an international development community from all around the world, we try to avoid linking to iOS developers that tweet a lot about politics
 
-Your contributions are always welcome!  Thank you for your suggestions! :smiley:
+Your contributions are always welcome! Thank you for your suggestions! :smiley:
