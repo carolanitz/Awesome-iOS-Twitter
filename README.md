@@ -23,7 +23,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@steipete](https://twitter.com/steipete) - creator of PSPDFKit.
 
 # Conferences
-* [@nssppain](https://twitter.com/nsspain) - The only conference for iOS and Mac in Spain.
+* [@NSSpain](https://twitter.com/nsspain) - The only conference for iOS and Mac in Spain.
 * [@swiftsummit](https://twitter.com/swiftsummit) - The premier Swift conference for developers.
 * [@uikonf](https://twitter.com/uikonf) - Berlin's independent conference for serious iOS developers.
 
