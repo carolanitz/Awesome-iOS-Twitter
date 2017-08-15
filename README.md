@@ -21,6 +21,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@olebegemann](https://twitter.com/olebegemann) - co-authored Advanced Swift and blogging on oleb.net.
 * [@orta](https://twitter.com/orta) - helped build CocoaPods and Danger.
 * [@steipete](https://twitter.com/steipete) - creator of PSPDFKit.
+* [@stroughtonsmith](https://twitter.com/stroughtonsmith) - iOS developer, discovering details about future releases.
 
 # Conferences
 * [@nsspain](https://twitter.com/nsspain) - The only conference for iOS and Mac in Spain.
