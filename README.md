@@ -13,11 +13,11 @@ Feel free to add other follow worthy Twitter accounts.
 * [Contributing](#contributing-and-license)
 
 # People
-
 * [@chriseidhof](https://twitter.com/chriseidhof) - creator of Objc.io.
 * [@jesse_squires](https://twitter.com/jesse_squires) - curates the Swift Weekly Brief.
 * [@krausefx](https://twitter.com/krausefx) - creator of fastlane.
 * [@natashatherobot](https://twitter.com/natashatherobot) - trySwift organizer and writes the Swift news newsletter.
+* [@nicklockwood](https://twitter.com/nicklockwood) - author of iOS Core Animation:Advanced Techniques.
 * [@olebegemann](https://twitter.com/olebegemann) - co-authored Advanced Swift and blogging on oleb.net.
 * [@orta](https://twitter.com/orta) - helped build CocoaPods and Danger.
 * [@steipete](https://twitter.com/steipete) - creator of PSPDFKit.
