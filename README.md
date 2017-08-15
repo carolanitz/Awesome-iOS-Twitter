@@ -13,6 +13,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [Contributing](#contributing-and-license)
 
 # People
+* [@_ryannystrom](https://twitter.com/_ryannystrom) - writer at rwenderlich and core contributor to [IGListKit](https://github.com/Instagram/IGListKit/).
 * [@chriseidhof](https://twitter.com/chriseidhof) - creator of Objc.io.
 * [@jesse_squires](https://twitter.com/jesse_squires) - curates the Swift Weekly Brief.
 * [@khanlou](https://twitter.com/khanlou) - writing on khanlou.com.
