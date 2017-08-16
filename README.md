@@ -30,6 +30,8 @@ Feel free to add other follow worthy Twitter accounts.
 * [@steipete](https://twitter.com/steipete) - creator of PSPDFKit.
 * [@stroughtonsmith](https://twitter.com/stroughtonsmith) - iOS developer, discovering details about future releases.
 * [@mikeash](https://twitter.com/mikeash) - famous owner of his [blog](https://www.mikeash.com/pyblog/).
+* [@designatednerd](https://twitter.com/designatednerd) - Lead mobile developer at SpotHero.
+* [@soffes](https://twitter.com/soffes) - iOS developer, working on iOS from the day the SDK was released.
 
 # Conferences
 
