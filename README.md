@@ -29,7 +29,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@rjonesy](https://twitter.com/rjonesy) - founder for Weather Line.
 * [@steipete](https://twitter.com/steipete) - creator of PSPDFKit.
 * [@stroughtonsmith](https://twitter.com/stroughtonsmith) - iOS developer, discovering details about future releases.
-* [@mikeash](https://twitter.com/mikeash) - famous owner of his blog [Mike Ash blog](https://www.mikeash.com/pyblog/).
+* [@mikeash](https://twitter.com/mikeash) - famous owner of his [blog](https://www.mikeash.com/pyblog/).
 
 # Conferences
 
