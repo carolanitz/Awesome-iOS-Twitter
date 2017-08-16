@@ -20,6 +20,7 @@ Typical reasons for deleting twitterhandles:
 
 #### Twitter Accounts are ineligible if:
 
+- Commercial Twitter accounts from companies/brands
 - Lack recent tweets
 - Not tweeting mostly in English
 
