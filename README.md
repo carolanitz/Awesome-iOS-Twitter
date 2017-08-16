@@ -13,7 +13,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [People](#people)
 * [Conferences](#conferences)
 * [Blogs](#blogs)
-* [Twitter List](#twitter list)
+* [Twitter List](#twitter-list)
 * [Contributing](#contributing-and-license)
 
 # People
