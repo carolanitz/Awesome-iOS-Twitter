@@ -18,6 +18,7 @@ Feel free to add other follow worthy Twitter accounts.
 # People
 
 * [@chriseidhof](https://twitter.com/chriseidhof) - creator of Objc.io
+* [@jesse_squires](https://twitter.com/jesse_squires) - curates the Swift Weekly Brief.
 * [@krausefx](https://twitter.com/krausefx) - creator of fastlane
 * [@natashatherobot](https://twitter.com/natashatherobot) - trySwift organizer and writes the Swift news newsletter
 * [@olebegemann](https://twitter.com/olebegemann) - co-authored Advanced Swift and blogging on oleb.net
