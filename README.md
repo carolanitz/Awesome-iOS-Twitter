@@ -13,8 +13,8 @@ Feel free to add other follow worthy Twitter accounts.
 * [People](#people)
 * [Conferences](#conferences)
 * [Blogs](#blogs)
+* [Twitter List](#twitterlist)
 * [Contributing](#contributing-and-license)
-* [Extras](#extras)
 
 # People
 * [@_ryannystrom](https://twitter.com/_ryannystrom) - writer at rwenderlich and core contributor to [IGListKit](https://github.com/Instagram/IGListKit/).
@@ -52,11 +52,11 @@ Feel free to add other follow worthy Twitter accounts.
 * [@objcio](https://twitter.com/objcio) - publishes books, videos, and articles on advanced techniques for iOS and OS X development.
 * [@swiftlybrief](https://twitter.com/swiftlybrief) - a community driven newsletter about about Swift.org
 
+# Twitter List
+
+* [Twitter List](https://twitter.com/russjr08/lists/awesome-ios-development) - An easily subscribable Twitter List containing the accounts listed above.
+
 # Contributing and License
 
 * [CONTRIBUTING.md](https://github.com/carolanitz/Awesome-iOS-Twitter/blob/master/CONTRIBUTING.md)
 * To the extent possible under law, Carola Nitz has waived all copyright and related or neighboring rights to this work. See LICENSE for more information.
-
-# Extras
-
-* [Twitter List](https://twitter.com/russjr08/lists/awesome-ios-development) - An easily subscribable Twitter List containing the accounts listed above.
