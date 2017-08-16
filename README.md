@@ -29,6 +29,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@rjonesy](https://twitter.com/rjonesy) - founder for Weather Line.
 * [@steipete](https://twitter.com/steipete) - creator of PSPDFKit.
 * [@stroughtonsmith](https://twitter.com/stroughtonsmith) - iOS developer, discovering details about future releases.
+* [@gregheo](https://twitter.com/gregheo) - iOS developer at Instagram.
 
 # Conferences
 
