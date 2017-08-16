@@ -33,6 +33,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@mikeash](https://twitter.com/mikeash) - famous owner of his [blog](https://www.mikeash.com/pyblog/).
 * [@designatednerd](https://twitter.com/designatednerd) - Lead mobile developer at SpotHero.
 * [@soffes](https://twitter.com/soffes) - iOS developer, working on iOS from the day the SDK was released.
+* [@twostraws](https://twitter.com/twostraws) - creator of HackingWithSwift.com.
 
 # Conferences
 
@@ -46,6 +47,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@iosdevweekly](https://twitter.com/iosdevweekly) - a hand-picked round up of the best iOS development links every week.
 * [@objcio](https://twitter.com/objcio) - publishes books, videos, and articles on advanced techniques for iOS and OS X development.
 * [@swiftlybrief](https://twitter.com/swiftlybrief) - a community driven newsletter about about Swift.org
+* [@swiftgit](https://twitter.com/swiftgit) - trending swift libraries on Github.
 
 # Contributing and License
 
