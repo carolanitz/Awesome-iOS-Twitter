@@ -25,6 +25,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@rjonesy](https://twitter.com/rjonesy) - founder for Weather Line.
 * [@steipete](https://twitter.com/steipete) - creator of PSPDFKit.
 * [@stroughtonsmith](https://twitter.com/stroughtonsmith) - iOS developer, discovering details about future releases.
+* [@johnsundell](https://twitter.com/johnsundell) - Creator of Marathon, SwiftPlate, Unbox/Wrap & more.
 
 # Conferences
 * [@nsspain](https://twitter.com/nsspain) - The only conference for iOS and Mac in Spain.
