@@ -16,16 +16,19 @@ Feel free to add other follow worthy Twitter accounts.
 * [Contributing](#contributing-and-license)
 
 # People
-
-* [@chriseidhof](https://twitter.com/chriseidhof) - creator of Objc.io
+* [@_ryannystrom](https://twitter.com/_ryannystrom) - writer at rwenderlich and core contributor to [IGListKit](https://github.com/Instagram/IGListKit/).
+* [@chriseidhof](https://twitter.com/chriseidhof) - creator of Objc.io.
 * [@jesse_squires](https://twitter.com/jesse_squires) - curates the Swift Weekly Brief.
-* [@krausefx](https://twitter.com/krausefx) - creator of fastlane
-* [@natashatherobot](https://twitter.com/natashatherobot) - trySwift organizer and writes the Swift news newsletter
-* [@olebegemann](https://twitter.com/olebegemann) - co-authored Advanced Swift and blogging on oleb.net
-* [@orta](https://twitter.com/orta) - works on CocoaPods and Danger, most recently lots of React Native also
-* [@steipete](https://twitter.com/steipete) - creator of PSPDFKit
 * [@johnsundell](https://twitter.com/johnsundell) - works on various Swift tooling and open source projects
-* [@stroughtonsmith](https://twitter.com/stroughtonsmith) - iOS developer, discovering details about future releases
+* [@khanlou](https://twitter.com/khanlou) - writing on khanlou.com.
+* [@krausefx](https://twitter.com/krausefx) - creator of fastlane.
+* [@natashatherobot](https://twitter.com/natashatherobot) - trySwift organizer and writes the Swift news newsletter.
+* [@nicklockwood](https://twitter.com/nicklockwood) - author of iOS Core Animation:Advanced Techniques.
+* [@olebegemann](https://twitter.com/olebegemann) - co-authored Advanced Swift and blogging on oleb.net.
+* [@orta](https://twitter.com/orta) - helped build CocoaPods and Danger.
+* [@rjonesy](https://twitter.com/rjonesy) - founder for Weather Line.
+* [@steipete](https://twitter.com/steipete) - creator of PSPDFKit.
+* [@stroughtonsmith](https://twitter.com/stroughtonsmith) - iOS developer, discovering details about future releases.
 
 # Conferences
 
