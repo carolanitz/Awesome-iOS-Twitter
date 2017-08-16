@@ -45,6 +45,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@swiftsummit](https://twitter.com/swiftsummit) - The premier Swift conference for developers.
 * [@uikonf](https://twitter.com/uikonf) - Berlin's independent conference for serious iOS developers.
 * [@pragmamarkorg](https://twitter.com/pragmamarkorg) - Italian Apple Dev Community. We organize the #PragmaConference.
+* [@nscoderba](https://twitter.com/nscoderba) - NSCoder Buenos Aires, from Argentina. We also host @nsconfarg, the first iOS conference in Spanish
 
 # Blogs
 
