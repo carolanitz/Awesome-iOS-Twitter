@@ -13,6 +13,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [People](#people)
 * [Conferences](#conferences)
 * [Blogs](#blogs)
+* [Twitter List](#twitter list)
 * [Contributing](#contributing-and-license)
 
 # People
@@ -50,6 +51,10 @@ Feel free to add other follow worthy Twitter accounts.
 * [@iosdevweekly](https://twitter.com/iosdevweekly) - a hand-picked round up of the best iOS development links every week.
 * [@objcio](https://twitter.com/objcio) - publishes books, videos, and articles on advanced techniques for iOS and OS X development.
 * [@swiftlybrief](https://twitter.com/swiftlybrief) - a community driven newsletter about about Swift.org
+
+# Twitter List
+
+* [Twitter List](https://twitter.com/russjr08/lists/awesome-ios-development) - An easily subscribable Twitter List containing the accounts listed above.
 
 # Contributing and License
 
