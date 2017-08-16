@@ -19,7 +19,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@_ryannystrom](https://twitter.com/_ryannystrom) - writer at rwenderlich and core contributor to [IGListKit](https://github.com/Instagram/IGListKit/).
 * [@chriseidhof](https://twitter.com/chriseidhof) - creator of Objc.io.
 * [@jesse_squires](https://twitter.com/jesse_squires) - curates the Swift Weekly Brief.
-* [@johnsundell](https://twitter.com/johnsundell) - works on various Swift tooling and open source projects
+* [@johnsundell](https://twitter.com/johnsundell) - creator of Marathon, SwiftPlate, Unbox/Wrap & more.
 * [@khanlou](https://twitter.com/khanlou) - writing on khanlou.com.
 * [@krausefx](https://twitter.com/krausefx) - creator of fastlane.
 * [@natashatherobot](https://twitter.com/natashatherobot) - trySwift organizer and writes the Swift news newsletter.
@@ -30,6 +30,9 @@ Feel free to add other follow worthy Twitter accounts.
 * [@steipete](https://twitter.com/steipete) - creator of PSPDFKit.
 * [@stroughtonsmith](https://twitter.com/stroughtonsmith) - iOS developer, discovering details about future releases.
 * [@gregheo](https://twitter.com/gregheo) - iOS developer at Instagram.
+* [@mikeash](https://twitter.com/mikeash) - famous owner of his [blog](https://www.mikeash.com/pyblog/).
+* [@designatednerd](https://twitter.com/designatednerd) - Lead mobile developer at SpotHero.
+* [@soffes](https://twitter.com/soffes) - iOS developer, working on iOS from the day the SDK was released.
 
 # Conferences
 
