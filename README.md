@@ -33,6 +33,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@mikeash](https://twitter.com/mikeash) - famous owner of his [blog](https://www.mikeash.com/pyblog/).
 * [@designatednerd](https://twitter.com/designatednerd) - Lead mobile developer at SpotHero.
 * [@soffes](https://twitter.com/soffes) - iOS developer, working on iOS from the day the SDK was released.
+* [@jordanmorgan10](https://twitter.com/jordanmorgan10) - iOS at Buffer, Pluralsight instructor and author of [The Traveled iOS Developer's Guide](https://medium.com/the-traveled-ios-developers-guide).
 
 # Conferences
 
