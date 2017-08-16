@@ -37,6 +37,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@ericasadun](https://twitter.com/ericasadun) - author of Auto Layout Demystified.
 * [@icanzilb](https://twitter.com/icanzilb) - co-Author on the RxSwift book.
 * [@merowing_](https://twitter.com/merowing_) - creator of Sourcery and Objective-C playgrounds.
+* [@phillfarrugia](https://twitter.com/phillfarrugia) - Australian iOS Engineer, Speaker, Writer and Photographer based in the Bay Area.
 
 # Conferences
 
