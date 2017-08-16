@@ -19,7 +19,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@_ryannystrom](https://twitter.com/_ryannystrom) - writer at rwenderlich and core contributor to [IGListKit](https://github.com/Instagram/IGListKit/).
 * [@chriseidhof](https://twitter.com/chriseidhof) - creator of Objc.io.
 * [@jesse_squires](https://twitter.com/jesse_squires) - curates the Swift Weekly Brief.
-* [@johnsundell](https://twitter.com/johnsundell) - works on various Swift tooling and open source projects
+* [@johnsundell](https://twitter.com/johnsundell) - creator of Marathon, SwiftPlate, Unbox/Wrap & more.
 * [@khanlou](https://twitter.com/khanlou) - writing on khanlou.com.
 * [@krausefx](https://twitter.com/krausefx) - creator of fastlane.
 * [@natashatherobot](https://twitter.com/natashatherobot) - trySwift organizer and writes the Swift news newsletter.
@@ -29,7 +29,6 @@ Feel free to add other follow worthy Twitter accounts.
 * [@rjonesy](https://twitter.com/rjonesy) - founder for Weather Line.
 * [@steipete](https://twitter.com/steipete) - creator of PSPDFKit.
 * [@stroughtonsmith](https://twitter.com/stroughtonsmith) - iOS developer, discovering details about future releases.
-* [@johnsundell](https://twitter.com/johnsundell) - Creator of Marathon, SwiftPlate, Unbox/Wrap & more.
 
 # Conferences
 
