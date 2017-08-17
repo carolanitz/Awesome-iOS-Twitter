@@ -55,6 +55,8 @@ Feel free to add other follow worthy Twitter accounts.
 
 # Podcasts
 
+* [@swift_unwrapped](https://twitter.com/swift_unwrapped) - a weekly podcast about the Swift programming language hosted by [@jesse_squires](https://twitter.com/jesse_squires) and [@simjp](https://twitter.com/simjp).
+
 # Twitter List
 
 * [Twitter List](https://twitter.com/russjr08/lists/awesome-ios-development) - An easily subscribable Twitter List containing the accounts listed above.
