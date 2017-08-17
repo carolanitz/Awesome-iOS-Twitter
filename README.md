@@ -19,7 +19,7 @@ Feel free to add other follow worthy Twitter accounts.
 # People
 
 * [@_ryannystrom](https://twitter.com/_ryannystrom) - writer at rwenderlich and core contributor to [IGListKit](https://github.com/Instagram/IGListKit/).
-* [@a2](https://twitter.com/a2) - BlocksKit co-author; MessagePack.swift, TrollDropKit maintainer
+* [@a2](https://twitter.com/a2) - BlocksKit co-author; MessagePack.swift, TrollDropKit maintainer.
 * [@chriseidhof](https://twitter.com/chriseidhof) - creator of Objc.io.
 * [@designatednerd](https://twitter.com/designatednerd) - Lead mobile developer at SpotHero.
 * [@ericasadun](https://twitter.com/ericasadun) - author of Auto Layout Demystified.
