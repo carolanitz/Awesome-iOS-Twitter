@@ -17,34 +17,36 @@ Feel free to add other follow worthy Twitter accounts.
 * [Contributing](#contributing-and-license)
 
 # People
+
 * [@_ryannystrom](https://twitter.com/_ryannystrom) - writer at rwenderlich and core contributor to [IGListKit](https://github.com/Instagram/IGListKit/).
+* [@a2](https://twitter.com/a2) - BlocksKit co-author; MessagePack.swift, TrollDropKit maintainer
 * [@chriseidhof](https://twitter.com/chriseidhof) - creator of Objc.io.
+* [@designatednerd](https://twitter.com/designatednerd) - Lead mobile developer at SpotHero.
+* [@ericasadun](https://twitter.com/ericasadun) - author of Auto Layout Demystified.
+* [@gregheo](https://twitter.com/gregheo) - iOS developer at Instagram.
+* [@icanzilb](https://twitter.com/icanzilb) - co-Author on the RxSwift book.
 * [@jesse_squires](https://twitter.com/jesse_squires) - curates the Swift Weekly Brief.
 * [@johnsundell](https://twitter.com/johnsundell) - creator of Marathon, SwiftPlate, Unbox/Wrap & more.
 * [@khanlou](https://twitter.com/khanlou) - writing on khanlou.com.
 * [@krausefx](https://twitter.com/krausefx) - creator of fastlane.
+* [@merowing_](https://twitter.com/merowing_) - creator of Sourcery and Objective-C playgrounds.
+* [@mikeash](https://twitter.com/mikeash) - famous owner of his [blog](https://www.mikeash.com/pyblog/).
 * [@natashatherobot](https://twitter.com/natashatherobot) - trySwift organizer and writes the Swift news newsletter.
 * [@nicklockwood](https://twitter.com/nicklockwood) - author of iOS Core Animation:Advanced Techniques.
 * [@olebegemann](https://twitter.com/olebegemann) - co-authored Advanced Swift and blogging on oleb.net.
 * [@orta](https://twitter.com/orta) - helped build CocoaPods and Danger.
 * [@rjonesy](https://twitter.com/rjonesy) - founder for Weather Line.
+* [@soffes](https://twitter.com/soffes) - iOS developer, working on iOS from the day the SDK was released.
 * [@steipete](https://twitter.com/steipete) - creator of PSPDFKit.
 * [@stroughtonsmith](https://twitter.com/stroughtonsmith) - iOS developer, discovering details about future releases.
-* [@gregheo](https://twitter.com/gregheo) - iOS developer at Instagram.
-* [@mikeash](https://twitter.com/mikeash) - famous owner of his [blog](https://www.mikeash.com/pyblog/).
-* [@designatednerd](https://twitter.com/designatednerd) - Lead mobile developer at SpotHero.
-* [@soffes](https://twitter.com/soffes) - iOS developer, working on iOS from the day the SDK was released.
 * [@twostraws](https://twitter.com/twostraws) - creator of HackingWithSwift.com.
-* [@ericasadun](https://twitter.com/ericasadun) - author of Auto Layout Demystified.
-* [@icanzilb](https://twitter.com/icanzilb) - co-Author on the RxSwift book.
-* [@merowing_](https://twitter.com/merowing_) - creator of Sourcery and Objective-C playgrounds.
 
 # Conferences
 
 * [@nsspain](https://twitter.com/nsspain) - The only conference for iOS and Mac in Spain.
+* [@pragmamarkorg](https://twitter.com/pragmamarkorg) - Italian Apple Dev Community. We organize the #PragmaConference.
 * [@swiftsummit](https://twitter.com/swiftsummit) - The premier Swift conference for developers.
 * [@uikonf](https://twitter.com/uikonf) - Berlin's independent conference for serious iOS developers.
-* [@pragmamarkorg](https://twitter.com/pragmamarkorg) - Italian Apple Dev Community. We organize the #PragmaConference.
 
 # Blogs
 
