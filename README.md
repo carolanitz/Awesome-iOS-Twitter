@@ -3,7 +3,7 @@
 # About
 
 A curated list of awesome iOS Twitter accounts worth following inspired by [Awesome iOS](https://github.com/vsouza/awesome-ios)
-The list is divided into the categories People, Conferences and Blogs. There is no defined order in each category. If you want to contribute, please read [CONTRIBUTING.md](https://github.com/carolanitz/Awesome-iOS-Twitter/blob/master/CONTRIBUTING.md).
+The list is divided into the categories People, Conferences, Blogs and Podcasts. There is no defined order in each category. If you want to contribute, please read [CONTRIBUTING.md](https://github.com/carolanitz/Awesome-iOS-Twitter/blob/master/CONTRIBUTING.md).
 
 Feel free to add other follow worthy Twitter accounts.
 
@@ -13,6 +13,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [People](#people)
 * [Conferences](#conferences)
 * [Blogs](#blogs)
+* [Podcasts](#podcasts)
 * [Twitter List](#twitter-list)
 * [Contributing](#contributing-and-license)
 
@@ -51,6 +52,8 @@ Feel free to add other follow worthy Twitter accounts.
 * [@iosdevweekly](https://twitter.com/iosdevweekly) - a hand-picked round up of the best iOS development links every week.
 * [@objcio](https://twitter.com/objcio) - publishes books, videos, and articles on advanced techniques for iOS and OS X development.
 * [@swiftlybrief](https://twitter.com/swiftlybrief) - a community driven newsletter about about Swift.org
+
+# Podcasts
 
 # Twitter List
 
