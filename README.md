@@ -34,6 +34,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@nicklockwood](https://twitter.com/nicklockwood) - author of iOS Core Animation:Advanced Techniques.
 * [@olebegemann](https://twitter.com/olebegemann) - co-authored Advanced Swift and blogging on oleb.net.
 * [@orta](https://twitter.com/orta) - helped build CocoaPods and Danger.
+• [@rwenderlich](https://twitter.com/rwenderlich) - founder of a blog that has a [huge set of tutorials](https://www.raywenderlich.com/)
 * [@rjonesy](https://twitter.com/rjonesy) - founder for Weather Line.
 * [@soffes](https://twitter.com/soffes) - iOS developer, working on iOS from the day the SDK was released.
 * [@steipete](https://twitter.com/steipete) - creator of PSPDFKit.
