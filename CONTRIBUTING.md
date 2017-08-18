@@ -9,7 +9,7 @@ Please ensure your pull request follows the following guidelines:
 - Keep descriptions short and simple, but descriptive.
 - End all descriptions with a full stop/period.
 - Check your spelling and grammar.
-- Make sure that your suggestion is positioned as the last item category.
+- Make sure that your suggestion is alphabetized within its item category.
 - Make sure your text editor is set to remove trailing whitespace.
 
 #### Deleting 
