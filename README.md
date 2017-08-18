@@ -35,6 +35,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@olebegemann](https://twitter.com/olebegemann) - co-authored Advanced Swift and blogging on oleb.net.
 * [@orta](https://twitter.com/orta) - helped build CocoaPods and Danger.
 * [@rjonesy](https://twitter.com/rjonesy) - founder for Weather Line.
+* [@rwenderlich](https://twitter.com/rwenderlich) - founder of [www.raywenderlich.com](https://www.raywenderlich.com/) that has a huge set of tutorials.
 * [@soffes](https://twitter.com/soffes) - iOS developer, working on iOS from the day the SDK was released.
 * [@steipete](https://twitter.com/steipete) - creator of PSPDFKit.
 * [@stroughtonsmith](https://twitter.com/stroughtonsmith) - iOS developer, discovering details about future releases.
