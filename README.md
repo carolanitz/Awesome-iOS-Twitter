@@ -29,6 +29,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@jesse_squires](https://twitter.com/jesse_squires) - curates the Swift Weekly Brief.
 * [@johnsundell](https://twitter.com/johnsundell) - creator of Marathon, SwiftPlate, Unbox/Wrap & more.
 * [@khanlou](https://twitter.com/khanlou) - writing on khanlou.com.
+* [@kostiakoval](https://twitter.com/KostiaKoval) - author of Swift High Performance book.
 * [@krausefx](https://twitter.com/krausefx) - creator of fastlane.
 * [@merowing_](https://twitter.com/merowing_) - creator of Sourcery and Objective-C playgrounds.
 * [@mikeash](https://twitter.com/mikeash) - famous owner of his [blog](https://www.mikeash.com/pyblog/).
