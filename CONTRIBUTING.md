@@ -18,10 +18,15 @@ Typical reasons for deleting twitterhandles:
 
 - No updates / no longer tweets
 
+#### Twitter Accounts are eligible if:
+
+- Made a major contribution to the iOS community. Examples include, has contributed to a popular open source project like RxSwift, CocoaPods, fastlane or gives valuable talks
+- Majority of tweets are iOS or engineering related topics
+
 #### Twitter Accounts are ineligible if:
 
 - Commercial Twitter accounts from companies/brands
 - Lack recent tweets
 - Not tweeting mostly in English
 
-Your contributions are always welcome!  Thank you for your suggestions! :smiley:
+Your contributions are always welcome! Thank you for your suggestions! :smiley:
