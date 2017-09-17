@@ -22,6 +22,7 @@ Feel free to add other follow worthy Twitter accounts.
 # People
 
 * [@_ryannystrom](https://twitter.com/_ryannystrom) - writer at rwenderlich and core contributor to [IGListKit](https://github.com/Instagram/IGListKit/).
+* [@benjaminencz](https://twitter.com/benjaminencz) - iOS developer at PlanGrid and ReSwift core team member.
 * [@chriseidhof](https://twitter.com/chriseidhof) - creator of Objc.io.
 * [@designatednerd](https://twitter.com/designatednerd) - Lead mobile developer at SpotHero.
 * [@ericasadun](https://twitter.com/ericasadun) - author of Auto Layout Demystified.
