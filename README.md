@@ -30,7 +30,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@icanzilb](https://twitter.com/icanzilb) - co-Author on the RxSwift book.
 * [@jesse_squires](https://twitter.com/jesse_squires) - curates the Swift Weekly Brief.
 * [@johnsundell](https://twitter.com/johnsundell) - creator of Marathon, SwiftPlate, Unbox/Wrap & more.
-* [@khanlou](https://twitter.com/khanlou) - writing on khanlou.com.
+* [@khanlou](https://twitter.com/khanlou) - writing on [khanlou](http://khanlou.com/).
 * [@krausefx](https://twitter.com/krausefx) - creator of fastlane.
 * [@merowing_](https://twitter.com/merowing_) - creator of Sourcery and Objective-C playgrounds.
 * [@mikeash](https://twitter.com/mikeash) - famous owner of his [blog](https://www.mikeash.com/pyblog/).
