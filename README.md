@@ -35,6 +35,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@merowing_](https://twitter.com/merowing_) - creator of Sourcery and Objective-C playgrounds.
 * [@mikeash](https://twitter.com/mikeash) - famous owner of his [blog](https://www.mikeash.com/pyblog/).
 * [@natashatherobot](https://twitter.com/natashatherobot) - trySwift organizer and writes the Swift news newsletter.
+* [@NeoNacho](https://twitter.com/NeoNacho) - creator of [trolldrop](https://github.com/neonichu/trolldrop/) and [hasselhoff](https://github.com/neonichu/hasselhoff/).
 * [@nicklockwood](https://twitter.com/nicklockwood) - author of iOS Core Animation:Advanced Techniques.
 * [@olebegemann](https://twitter.com/olebegemann) - co-authored Advanced Swift and blogging on oleb.net.
 * [@orta](https://twitter.com/orta) - helped build CocoaPods and Danger.
