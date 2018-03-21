@@ -42,6 +42,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@rwenderlich](https://twitter.com/rwenderlich) - founder of [www.raywenderlich.com](https://www.raywenderlich.com/) that has a huge set of tutorials.
 * [@soffes](https://twitter.com/soffes) - iOS developer, working on iOS from the day the SDK was released.
 * [@steipete](https://twitter.com/steipete) - creator of PSPDFKit.
+* [@strawb3rryx7](https://twitter.com/strawb3rryx7) - iOS developer, writing on [strawb3rryx7](https://medium.com/@strawb3rryx7).
 * [@stroughtonsmith](https://twitter.com/stroughtonsmith) - iOS developer, discovering details about future releases.
 * [@twostraws](https://twitter.com/twostraws) - creator of HackingWithSwift.com.
 
