@@ -38,6 +38,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@nicklockwood](https://twitter.com/nicklockwood) - author of iOS Core Animation:Advanced Techniques.
 * [@olebegemann](https://twitter.com/olebegemann) - co-authored Advanced Swift and blogging on oleb.net.
 * [@orta](https://twitter.com/orta) - helped build CocoaPods and Danger.
+* [@peres](https://twitter.com/peres) - Lead iOS Engineer at Babylon Health.
 * [@rjonesy](https://twitter.com/rjonesy) - founder for Weather Line.
 * [@rwenderlich](https://twitter.com/rwenderlich) - founder of [www.raywenderlich.com](https://www.raywenderlich.com/) that has a huge set of tutorials.
 * [@soffes](https://twitter.com/soffes) - iOS developer, working on iOS from the day the SDK was released.
