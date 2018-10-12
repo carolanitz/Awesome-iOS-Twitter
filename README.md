@@ -54,6 +54,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@tryswiftnyc](https://twitter.com/tryswiftnyc) - Immersive community gathering about iOS, watchOS, and tvOS development in Swift happening in New York 
 * [@uikonf](https://twitter.com/uikonf) - Berlin's independent conference for serious iOS developers.
 * [@frenchkitconf](https://twitter.com/frenchkitconf) - First iOS and macOS conference in France.
+* [@codemobileuk](https://twitter.com/codemobileuk) - iOS developer conference in the United Kingdom.
 
 # Blogs
 
