@@ -57,6 +57,7 @@ Feel free to add other follow worthy Twitter accounts.
 
 # Blogs
 
+* [@daringfireball](https://twitter.com/daringfireball) - A tech blog by Mark Gruber
 * [@iosdevweekly](https://twitter.com/iosdevweekly) - a hand-picked round up of the best iOS development links every week.
 * [@objcio](https://twitter.com/objcio) - publishes books, videos, and articles on advanced techniques for iOS and OS X development.
 * [@swiftlybrief](https://twitter.com/swiftlybrief) - a community driven newsletter about about Swift.org
