@@ -55,6 +55,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@uikonf](https://twitter.com/uikonf) - Berlin's independent conference for serious iOS developers.
 * [@frenchkitconf](https://twitter.com/frenchkitconf) - First iOS and macOS conference in France.
 * [@codemobileuk](https://twitter.com/codemobileuk) - iOS developer conference in the United Kingdom.
+* [@iosdevuk](https://twitter.com/iosdevuk) - iOS developer conference in Wales (UK).
 
 # Blogs
 
