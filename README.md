@@ -45,6 +45,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@steipete](https://twitter.com/steipete) - creator of PSPDFKit.
 * [@stroughtonsmith](https://twitter.com/stroughtonsmith) - iOS developer, discovering details about future releases.
 * [@twostraws](https://twitter.com/twostraws) - creator of HackingWithSwift.com.
+* [@_inside](https://twitter.com/_inside) - creator of AirBuddy, known for discovering Apple's secrets and analyzing leaks.
 
 # Conferences
 
