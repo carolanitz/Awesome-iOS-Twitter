@@ -45,6 +45,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@steipete](https://twitter.com/steipete) - creator of PSPDFKit.
 * [@stroughtonsmith](https://twitter.com/stroughtonsmith) - iOS developer, discovering details about future releases.
 * [@twostraws](https://twitter.com/twostraws) - creator of HackingWithSwift.com.
+* [@seanallen_dev](https://twitter.com/seanallen_dev) - iOS Engineer and content creator: [http://youtube.com/seanallen](http://youtube.com/seanallen).
 
 # Conferences
 
