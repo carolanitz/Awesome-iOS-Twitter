@@ -41,6 +41,8 @@ Feel free to add other follow worthy Twitter accounts.
 * [@steipete](https://twitter.com/steipete) - creator of PSPDFKit.
 * [@stroughtonsmith](https://twitter.com/stroughtonsmith) - iOS developer, discovering details about future releases.
 * [@twostraws](https://twitter.com/twostraws) - creator of HackingWithSwift.com.
+* [@V8tr](https://twitter.com/V8tr) - Lead iOS Engineer 
+@EPAMSystems, and author of "Yet Another #Swift Blog" [http://vadimbulavin.com](http://vadimbulavin.com)
 
 # Conferences
 
