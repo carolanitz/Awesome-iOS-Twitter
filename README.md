@@ -22,7 +22,7 @@ Feel free to add other follow worthy Twitter accounts.
 * [@chriseidhof](https://twitter.com/chriseidhof) - creator of Objc.io.
 * [@designatednerd](https://twitter.com/designatednerd) - Lead mobile developer at SpotHero.
 * [@ericasadun](https://twitter.com/ericasadun) - author of Auto Layout Demystified.
-* [@gregheo](https://twitter.com/gregheo) - iOS developer at Instagram.
+* [@gregheo](https://twitter.com/gregheo) - iOS developer at Apple.
 * [@icanzilb](https://twitter.com/icanzilb) - co-Author on the RxSwift book.
 * [@jesse_squires](https://twitter.com/jesse_squires) - curates the Swift Weekly Brief.
 * [@johnsundell](https://twitter.com/johnsundell) - creator of Marathon, SwiftPlate, Unbox/Wrap & more.
